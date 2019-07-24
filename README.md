@@ -1,7 +1,7 @@
 # hello-word
 #Anti-lost security detection system based on ARC processor
 
- - Introduction
+ ## Introduction
  * Function
  + System Architecture
 Hardware and Software Setup
