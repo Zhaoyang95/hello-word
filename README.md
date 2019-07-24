@@ -22,7 +22,7 @@ The intelligent monitoring device performs intelligent discrimination based on t
    - **Shedding check mode**<br/>
      The buzzer sounds an alarm when the sensor comes off.
    
-      ![image](https://github.com/Zhaoyang95/hello-word/blob/master/Screenshots/Shedding check.gif)
+      ![image](https://github.com/Zhaoyang95/hello-word/master/Screenshots/Shedding check.gif)
    - **Posture detection mode**<br/>
      The device can detect abnormal conditions such as human fall and being picked up.
     
